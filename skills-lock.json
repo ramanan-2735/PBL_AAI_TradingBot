@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "skills": {
+    "algorithmic-trading": {
+      "source": "omer-metin/skills-for-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/algorithmic-trading/SKILL.md",
+      "computedHash": "238fdf5d2f3bfdbafec01399b43e6d2d07cc49316ed9ecc4085a4f7c156056c1"
+    },
+    "improve-codebase-architecture": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
+      "computedHash": "f74b0bf1be26220dd615523fc1c0562567f9c463d9e9b255d4031345ffb37cd3"
+    },
+    "langgraph": {
+      "source": "omer-metin/skills-for-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/langgraph/SKILL.md",
+      "computedHash": "5aff3cf5d727344bf1f00641b78403e27866c487388395ee31f2db387b13e84e"
+    },
+    "ponytail": {
+      "source": "dietrichgebert/ponytail",
+      "sourceType": "github",
+      "skillPath": "skills/ponytail/SKILL.md",
+      "computedHash": "dc44b17f49b1228761af8303a51bc028cd1cca866ba8d23d6072ef5fd4e0ba94"
+    },
+    "python-craftsman": {
+      "source": "omer-metin/skills-for-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/python-craftsman/SKILL.md",
+      "computedHash": "01a05323adc17e16800a7397223999ee394913a97c68942a065f1db30fe0bdaf"
+    },
+    "risk-management-trading": {
+      "source": "omer-metin/skills-for-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/risk-management-trading/SKILL.md",
+      "computedHash": "58494d5e86047c80c4f5b6b892a649e6866fcee93a14d9d4998e700d13b43504"
+    },
+    "structured-output": {
+      "source": "omer-metin/skills-for-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/structured-output/SKILL.md",
+      "computedHash": "844620651e4f827824e871e1e2961de1158502ec633860c2f43a4e864c503d08"
+    },
+    "system-designer": {
+      "source": "omer-metin/skills-for-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/system-designer/SKILL.md",
+      "computedHash": "abd40a62fdf3935e1766492ddcfa8ca97ef145ae5a0bd9fb0d46d5464e301721"
+    },
+    "technical-analysis": {
+      "source": "omer-metin/skills-for-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/technical-analysis/SKILL.md",
+      "computedHash": "648e00fcf4b1da1689fa1df1bad5249c5f04625e6264475369d51a3a50a7eb0d"
+    },
+    "ui-design": {
+      "source": "omer-metin/skills-for-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/ui-design/SKILL.md",
+      "computedHash": "eb2664a67dc6943c4fca86a32e5c3def16aa9c5f1ea71834baeddb80b8102924"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "computedHash": "6b526d013e28073246a36f99b529bc43745d30832ecfa8217b359c34f260ca6b"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "computedHash": "d8e7d3afe37dcc8a97b99ffb5afdb4d0919ae0092ea8b68f44eb201f035e33ac"
+    },
+    "websockets-realtime": {
+      "source": "omer-metin/skills-for-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/websockets-realtime/SKILL.md",
+      "computedHash": "d52d1506726c62e21558c438ffb56549529d4864f785dbdd4961245c81312498"
+    }
+  }
+}

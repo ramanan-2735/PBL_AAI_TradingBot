@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Secrets and Environment Variables
+.env
+*.env
+*.pem
+*.key
+
+# SQLite Databases & logs
+*.sqlite3
+*.db
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Cache directories
+data/cache/
+data/models/
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Agent IDE and system generated
+.agents/
+.claude/
+# Office temp files
+~$*
+PROJECT BASED LEARNING_BACKUP.docx
+fill_report.py
